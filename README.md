@@ -102,7 +102,7 @@ Akses aplikasi di [http://localhost:8000](http://localhost:8000) (atau sesuai po
 ## Catatan
 
 -   Hanya user yang login yang bisa melihat, mengedit, dan menghapus postingan miliknya sendiri di menu Post.
--   Dashboard (Home) menampilkan semua postingan (fitur feed, bisa dikembangkan untuk menampilkan post user yang di-follow).
+-   Dashboard (Home) menampilkan semua postingan (feed).
 -   Semua aksi penting (register, login, CRUD post, delete akun) menampilkan toast notification.
 -   Tidak ada Blade view kecuali root Inertia (SPA full).
 
