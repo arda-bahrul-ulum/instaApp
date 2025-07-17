@@ -8,7 +8,7 @@ InstaApp adalah aplikasi media sosial sederhana yang terinspirasi dari Instagram
 -   **Frontend:** Vue 3 (Single Page Application via Inertia.js)
 -   **Styling:** Tailwind CSS
 -   **Bundler:** Vite
--   **Database:** MySQL (atau database lain yang didukung Laravel)
+-   **Database:** MySQL
 -   **Authentication:** Laravel Breeze (Inertia + Vue)
 
 ## Library & Tools
