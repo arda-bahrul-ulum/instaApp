@@ -109,7 +109,3 @@ Akses aplikasi di [http://localhost:8000](http://localhost:8000) (atau sesuai po
 ## Kontribusi
 
 Pull request & issue sangat diterima! Silakan fork dan kembangkan fitur sesuai kebutuhan.
-
----
-
-**InstaApp** — Modern Instagram-like SPA with Laravel + Inertia + Vue 3
